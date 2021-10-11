@@ -1,0 +1,10 @@
+; -- Geometry ------------
+;  [TGLRender, TGLTimer
+;  ,TShader  , TFrustum, TXMMusic
+
+ tglrender bitmap glRender.bmp
+ tgltimer  bitmap glTimer.bmp
+ txmmusic  bitmap glXMusic.bmp
+ tfrustum  bitmap glFrustum.bmp
+ tshader   bitmap glShader.bmp
+ tglsound  bitmap gl3dsound.bmp
